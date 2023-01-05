@@ -1,0 +1,1 @@
+cmd_/home/uwu/Documents/develop/kernel/charDevice/chardev_test.mod := { echo  /home/uwu/Documents/develop/kernel/charDevice/chardev_test.o;  echo; } > /home/uwu/Documents/develop/kernel/charDevice/chardev_test.mod

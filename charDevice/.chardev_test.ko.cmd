@@ -1,0 +1,1 @@
+cmd_/home/uwu/Documents/develop/kernel/charDevice/chardev_test.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/uwu/Documents/develop/kernel/charDevice/chardev_test.ko /home/uwu/Documents/develop/kernel/charDevice/chardev_test.o /home/uwu/Documents/develop/kernel/charDevice/chardev_test.mod.o;  true

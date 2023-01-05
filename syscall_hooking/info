@@ -1,0 +1,8 @@
+KERNEL_VERSION >= KERNEL_VERSION(4.17.0 )
+	use pt_regs struct to pass args
+
+KERNEL_VERSION >= KERNEL_VERSION(5.7.0)
+	can't use kallysms_lookup_name()
+
+KERNEL_VERSION > KERNEL_VERSION(4.4.0) && KERNEL_VERSION < KERNEL_VERSION(5.7.0)
+	can use kallsysms_lookup_name()

@@ -1,0 +1,1 @@
+cmd_/home/uwu/Documents/develop/kernel/Multi_File/Module.symvers := sed 's/\.ko$$/\.o/' /home/uwu/Documents/develop/kernel/Multi_File/modules.order | scripts/mod/modpost  -a  -o /home/uwu/Documents/develop/kernel/Multi_File/Module.symvers -e -i Module.symvers  -N -T -

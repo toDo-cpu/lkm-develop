@@ -1,0 +1,1 @@
+cmd_/home/uwu/Documents/develop/kernel/charDevice/modules.order := {   echo /home/uwu/Documents/develop/kernel/charDevice/chardev.ko;   echo /home/uwu/Documents/develop/kernel/charDevice/chardev_test.ko; :; } | awk '!x[$$0]++' - > /home/uwu/Documents/develop/kernel/charDevice/modules.order
