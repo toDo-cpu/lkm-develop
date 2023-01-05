@@ -1,1 +1,0 @@
-cmd_/home/uwu/Documents/develop/kernel/Multi_File/multi_file.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/uwu/Documents/develop/kernel/Multi_File/multi_file.ko /home/uwu/Documents/develop/kernel/Multi_File/multi_file.o /home/uwu/Documents/develop/kernel/Multi_File/multi_file.mod.o;  true

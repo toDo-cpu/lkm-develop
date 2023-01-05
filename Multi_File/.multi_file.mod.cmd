@@ -1,1 +1,0 @@
-cmd_/home/uwu/Documents/develop/kernel/Multi_File/multi_file.mod := { echo  /home/uwu/Documents/develop/kernel/Multi_File/start.o /home/uwu/Documents/develop/kernel/Multi_File/stop.o;  echo; } > /home/uwu/Documents/develop/kernel/Multi_File/multi_file.mod

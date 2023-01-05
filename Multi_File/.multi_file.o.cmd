@@ -1,1 +1,0 @@
-cmd_/home/uwu/Documents/develop/kernel/Multi_File/multi_file.o := ld -m elf_x86_64   -r -o /home/uwu/Documents/develop/kernel/Multi_File/multi_file.o /home/uwu/Documents/develop/kernel/Multi_File/start.o /home/uwu/Documents/develop/kernel/Multi_File/stop.o

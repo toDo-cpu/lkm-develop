@@ -1,1 +1,0 @@
-cmd_/home/uwu/Documents/develop/kernel/hello_world/hello.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/uwu/Documents/develop/kernel/hello_world/hello.ko /home/uwu/Documents/develop/kernel/hello_world/hello.o /home/uwu/Documents/develop/kernel/hello_world/hello.mod.o;  true
